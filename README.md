@@ -1,10 +1,7 @@
 # Modern UI/UX GPT-3
 ### [Live Site](https://gpt3-jsm.com/)
 
-
-<img src="https://github.com/wondwessenHaile/a-Fully-Responsive-Modern-UI-UX-Website-in-React-JS/images/1.png" alt="Screenshot"/>
-
-
+![Modern UI/UX GPT-3](https://i.ibb.co/TR5LW9z/image.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
